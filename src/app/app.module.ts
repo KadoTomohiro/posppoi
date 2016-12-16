@@ -18,7 +18,7 @@ import { BarcodeReaderDirective } from './barcode-reader/barcode-reader.directiv
     BrowserModule,
     FormsModule,
     HttpModule,
-    // routing
+    routing
   ],
   providers: [appRoutingProviders],
   bootstrap: [AppComponent]
