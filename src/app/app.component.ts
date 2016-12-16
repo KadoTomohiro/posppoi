@@ -6,11 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
-  code = '';
+  title = 'posppoi!';
 
-  onCodeRead(code) {
-    console.log('codeRead', code);
-    this.code = code;
-  }
 }
